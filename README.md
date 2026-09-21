@@ -63,7 +63,7 @@ adicional.
 - `docs/OPERACIONES.md`: preparación del entorno e incidencias.
 
 Informe generado por `jocarsa/generador`:
-`Programacion-multimedia-y-dispositivos-moviles_RA1_0489.md`.
+`Programacion-multimedia-y-dispositivos-moviles_RA1_0489-entrega-.md`.
 
 ## Alcance y limitaciones
 
