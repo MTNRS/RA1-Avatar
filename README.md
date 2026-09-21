@@ -87,3 +87,7 @@ excluyendo `.git`, `.venv`, cachés y el propio informe. Se conserva sin editar 
 se verifica con la herramienta oficial tras darle el nombre de la tarea.
 Los recursos gráficos necesarios y la captura de prueba permanecen en el
 repositorio; el informe es textual y no sustituye esos archivos.
+
+## Repositorio de la tarea
+
+[MTNRS/RA1-Avatar](https://github.com/MTNRS/RA1-Avatar).
