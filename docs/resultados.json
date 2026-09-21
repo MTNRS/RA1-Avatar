@@ -1,0 +1,26 @@
+[
+  {
+    "perfil": "movil-compacto",
+    "viewport": "360x640",
+    "DPR": 2,
+    "resultado": "OK"
+  },
+  {
+    "perfil": "movil-amplio",
+    "viewport": "412x915",
+    "DPR": 2.625,
+    "resultado": "OK"
+  },
+  {
+    "perfil": "tableta",
+    "viewport": "768x1024",
+    "DPR": 2,
+    "resultado": "OK"
+  },
+  {
+    "perfil": "horizontal",
+    "viewport": "740x360",
+    "DPR": 2,
+    "resultado": "OK"
+  }
+]
