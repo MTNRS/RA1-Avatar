@@ -1,0 +1,44 @@
+[
+  {
+    "texto": "Hoy comienzo una demostración de bienvenida a Integra Tech Consulting. Me alegra aprender junto al equipo.",
+    "emocion": "alegria",
+    "valencia": 0,
+    "intensidad": 0.5,
+    "activacion": 0.5
+  },
+  {
+    "texto": "Encuentro una herramienta nueva y observo sus controles. No esperaba que pudiera mostrar tantas posibilidades.",
+    "emocion": "sorpresa",
+    "valencia": 0,
+    "intensidad": 0.5,
+    "activacion": 0.5
+  },
+  {
+    "texto": "Antes de continuar me preocupa cometer un error. Decido detenerme y revisar las instrucciones con cuidado.",
+    "emocion": "miedo",
+    "valencia": 0,
+    "intensidad": 0.5,
+    "activacion": 0.5
+  },
+  {
+    "texto": "Una prueba no sale como esperaba. Respiro y recuerdo que puedo corregir el paso y volver a intentarlo.",
+    "emocion": "tristeza",
+    "valencia": 0,
+    "intensidad": 0.5,
+    "activacion": 0.5
+  },
+  {
+    "texto": "Comprendo lo que ha sucedido y preparo una solución sencilla. Ahora veo una oportunidad para seguir aprendiendo.",
+    "emocion": "esperanza",
+    "valencia": 0,
+    "intensidad": 0.5,
+    "activacion": 0.5
+  },
+  {
+    "texto": "Termino la demostración con tranquilidad. Puedo reiniciar el relato o dejarlo en pausa cuando lo necesite.",
+    "emocion": "calma",
+    "valencia": 0,
+    "intensidad": 0.5,
+    "activacion": 0.5
+  }
+]
