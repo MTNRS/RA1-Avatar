@@ -75,11 +75,6 @@ sin conexión no está garantizado. No se reproduce audio ni se usa micrófono.
 Se conserva como demostración académica independiente de Integra Tech Consulting;
 no se conecta con sistemas ni datos empresariales reales.
 
-## Uso de IA
-
-Se utilizó Codex para adaptar el ejemplo del profesor, documentarlo y probarlo.
-Pendiente de revisión personal antes de la entrega.
-
 ## Informe y repositorio
 
 El informe se genera desde una copia temporal de código y documentación,

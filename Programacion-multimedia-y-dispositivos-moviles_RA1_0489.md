@@ -2,7 +2,7 @@
 
 ## Información de generación
 
-- **Fecha:** 2026-09-21 20:33:40 +0200
+- **Fecha:** 2026-09-21 20:46:01 +0200
 - **Usuario:** dlc
 - **UID:** 1000
 - **Equipo:** kali
@@ -10,15 +10,15 @@
 - **Versión del kernel:** 6.19.11+kali-amd64
 - **Arquitectura:** x86_64
 - **Directorio de ejecución:** `/home/dlc/DAM2`
-- **Proyecto documentado:** `/tmp/publicar-ra1-acjtf3g7/RA1-Avatar`
-- **HMAC-SHA-256 de autenticidad:** `9e551558279235f273604ffcb27a73194400042d6228fd4014aff19342cf81d7`
+- **Proyecto documentado:** `/tmp/revision-textos-ra1-8j1uzd59/RA1-Avatar`
+- **HMAC-SHA-256 de autenticidad:** `38bff73e5ecea598ce6aa18aa11561a73879ad730be599a1ff0aba5cf0c409e3`
 
 > El HMAC-SHA-256 se calcula sobre el documento completo usando un secreto incluido en el programa y 64 ceros en el propio campo del HMAC. El secreto no se escribe en el informe. Este mecanismo permite comprobar integridad y que el documento fue generado con el mismo secreto.
 
 ## Estructura del proyecto
 
 ```
-/tmp/publicar-ra1-acjtf3g7/RA1-Avatar
+/tmp/revision-textos-ra1-8j1uzd59/RA1-Avatar
 ├── README.md
 ├── docs
 │   ├── MEMORIA.md
@@ -139,11 +139,6 @@ sin conexión no está garantizado. No se reproduce audio ni se usa micrófono.
 
 Se conserva como demostración académica independiente de Integra Tech Consulting;
 no se conecta con sistemas ni datos empresariales reales.
-
-## Uso de IA
-
-Se utilizó Codex para adaptar el ejemplo del profesor, documentarlo y probarlo.
-Pendiente de revisión personal antes de la entrega.
 
 ## Informe y repositorio
 
