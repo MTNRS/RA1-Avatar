@@ -2,23 +2,23 @@
 
 ## Información de generación
 
-- **Fecha:** 2026-09-21 20:11:29 +0200
+- **Fecha:** 2026-09-21 20:26:38 +0200
 - **Usuario:** dlc
 - **UID:** 1000
 - **Equipo:** kali
 - **Sistema operativo:** Linux
 - **Versión del kernel:** 6.19.11+kali-amd64
 - **Arquitectura:** x86_64
-- **Directorio de ejecución:** `/home/dlc/RA1-Avatar`
-- **Proyecto documentado:** `/tmp/avatar-informe-2fhcw2wv/RA1-Avatar`
-- **HMAC-SHA-256 de autenticidad:** `388960edad44403aa583ecf0b4fe1568e45dd965600be42301eceb803be12e7b`
+- **Directorio de ejecución:** `/home/dlc/DAM2`
+- **Proyecto documentado:** `/tmp/revision-ra1-n5q9_54r/RA1-Avatar`
+- **HMAC-SHA-256 de autenticidad:** `7770502796d542ad11eb467e066fe6dd62f1ba85e52a448e414aad07dde5f18c`
 
 > El HMAC-SHA-256 se calcula sobre el documento completo usando un secreto incluido en el programa y 64 ceros en el propio campo del HMAC. El secreto no se escribe en el informe. Este mecanismo permite comprobar integridad y que el documento fue generado con el mismo secreto.
 
 ## Estructura del proyecto
 
 ```
-/tmp/avatar-informe-2fhcw2wv/RA1-Avatar
+/tmp/revision-ra1-n5q9_54r/RA1-Avatar
 ├── README.md
 ├── docs
 │   ├── MEMORIA.md
@@ -142,9 +142,8 @@ no se conecta con sistemas ni datos empresariales reales.
 
 ## Uso de IA
 
-Codex ha ayudado a adaptar el ejemplo, redactar el análisis y ejecutar las pruebas.
-La revisión personal y la comprensión del alumno quedan pendientes antes de la
-entrega. El material original del profesor se identifica en la documentación.
+Se utilizó Codex para adaptar el ejemplo del profesor, documentarlo y probarlo.
+Pendiente de revisión personal antes de la entrega.
 
 ## Informe y repositorio
 
@@ -350,6 +349,11 @@ independiente del producto y de los derechos de sus recursos gráficos.
 | Playwright del sistema no inicia | Instalarlo en un entorno virtual del proyecto | Resuelto y probado |
 | Emulador de SO móvil no disponible en las rutas comprobadas | Usar emulación del navegador, declarando sus límites | No se acredita prueba de Android/iOS |
 | Publicación GitHub | La credencial comprobada en la sesión es inválida | Repositorio local preparado; publicación pendiente |
+
+Revisión posterior: los repositorios locales siguen sin remoto configurado.
+La CLI mantiene una credencial inválida y el conector GitHub devuelve HTTP 403
+con un aviso de cuenta suspendida. La publicación queda pendiente de recuperar
+un acceso válido e indicar la cuenta u organización de destino.
 ```
 **PROCEDENCIA.md**
 ```markdown

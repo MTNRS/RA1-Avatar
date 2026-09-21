@@ -28,3 +28,8 @@
 | Playwright del sistema no inicia | Instalarlo en un entorno virtual del proyecto | Resuelto y probado |
 | Emulador de SO móvil no disponible en las rutas comprobadas | Usar emulación del navegador, declarando sus límites | No se acredita prueba de Android/iOS |
 | Publicación GitHub | La credencial comprobada en la sesión es inválida | Repositorio local preparado; publicación pendiente |
+
+Revisión posterior: los repositorios locales siguen sin remoto configurado.
+La CLI mantiene una credencial inválida y el conector GitHub devuelve HTTP 403
+con un aviso de cuenta suspendida. La publicación queda pendiente de recuperar
+un acceso válido e indicar la cuenta u organización de destino.

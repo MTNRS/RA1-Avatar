@@ -77,9 +77,8 @@ no se conecta con sistemas ni datos empresariales reales.
 
 ## Uso de IA
 
-Codex ha ayudado a adaptar el ejemplo, redactar el análisis y ejecutar las pruebas.
-La revisión personal y la comprensión del alumno quedan pendientes antes de la
-entrega. El material original del profesor se identifica en la documentación.
+Se utilizó Codex para adaptar el ejemplo del profesor, documentarlo y probarlo.
+Pendiente de revisión personal antes de la entrega.
 
 ## Informe y repositorio
 
